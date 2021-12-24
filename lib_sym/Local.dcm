@@ -1,0 +1,80 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +20V
+D Power symbol creates a global label with name "+20V"
+K power-flag
+$ENDCMP
+#
+$CMP 78171-0004
+D Molex Pico-EZmate 78171-0004
+K connector
+F https://www.molex.com/pdm_docs/sd/781710004_sd.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CC3235MODASF12MONR
+D SimpleLink Wi-Fi Dual-band Wireless Antenna Module Solution
+F https://www.ti.com/lit/gpn/cc3235modasf
+$ENDCMP
+#
+$CMP CVS-03B
+D Nidec Copal CVS-03B
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf
+$ENDCMP
+#
+$CMP ESDS302DBVR
+D 2-Channel Data-Line Surge and ESD Protection Device for High Speed Interfaces
+F https://www.ti.com/lit/gpn/esds302
+$ENDCMP
+#
+$CMP HLE-103-02-S-DV-LC
+D Samtec HLE-103-02-S-DV-LC
+F http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LMZM23600V3SILR
+D 36-V, 0.5-A Step-Down DC/DC Power Module in 3.8mm × 3mm Package, 3.3V Fixed Output
+F https://www.ti.com/lit/gpn/lmzm23600
+$ENDCMP
+#
+$CMP NVJD4401N
+D 0.63A Id, 20V Vds, Dual N-Channel MOSFET, 360mOhm Ron, SC-88
+K Dual N-Channel MOSFET
+F https://www.onsemi.com/pdf/datasheet/ntjd4401n-d.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP TC2050-IDC-NL-FP
+D Tag-Connect TC2050-IDC-NL-FP
+K Tag-Connect
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf
+$ENDCMP
+#
+$CMP TPS26624DRCR
+D 4.5-V to 60-V, 800-mA Industrial eFuse with Integrated Input and Output Reverse Polarity Protection
+F https://www.ti.com/lit/gpn/tps2662
+$ENDCMP
+#
+$CMP TVS3301DRBR
+D 33-V Bidirectional Flat-Clamp Surge Protection Device
+K EMI, ESD, TVS protection transient
+F https://www.ti.com/lit/gpn/tvs3301
+$ENDCMP
+#
+#End Doc Library
