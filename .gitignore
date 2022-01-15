@@ -19,3 +19,6 @@ fp-info-cache
 # KiCad Autorouter Files
 *.dsn
 *.ses
+
+# KiCad Backups
+*-backups/
